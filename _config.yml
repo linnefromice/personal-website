@@ -1,5 +1,5 @@
 layout: sidebar
-style: light
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -28,7 +28,7 @@ projects:
     projects:
     # - repo-name
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
@@ -37,7 +37,7 @@ projects:
   # keybase: your_username
   # linkedin: your_username
   # mastodon: your_username
-  # medium: your_username
+  medium: linnefromice
   # stackoverflow: your_user_id
   # telegram: your_username
   # twitter: your_username
@@ -47,37 +47,39 @@ projects:
   # youtube: your_username
 
 topics:
-  - name: Frontend
+  - name: WORK
+
   - name: React
     web_url: https://reactjs.org/
     image_url: data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K
   - name: Vue
     web_url: https://vuejs.org/
     image_url: https://vuejs.org/images/logo.png
-  - name: Backend
   - name: Spring Boot
     web_url: https://spring.io/projects/spring-boot
     image_url: https://spring.io/img/homepage/icon-spring-boot.svg
   - name: Oracle
     web_url: https://www.oracle.com/index.html
-    image_url: 
-  - name: DevOps
+    image_url: https://seeklogo.com/images/O/Oracle-logo-430F2F9F33-seeklogo.com.png
   - name: Docker
-  - name: ...
-  - name: IN PROGRESS
+    web_url: https://www.docker.com/
+    image_url: https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Docker-Logo-White-RGB_Moby.png
+
+  - name: PRIVATE
+  
   - name: Flutter
     web_url: https://flutter.dev/
-    image_url: https://flutter.dev/assets/flutter-lockup-c13da9c9303e26b8d5fc208d2a1fa20c1ef47eb021ecadf27046dea04c0cebf6.png
+    image_url: https://cdn.worldvectorlogo.com/logos/flutter-logo.svg
   - name: Expo
     web_url: https://expo.io/
-    image_url: https://lh3.googleusercontent.com/7l-bQADRV4PzxAz_9GH2aozV3jkHqdlUJbOsIf4Eu_bazCi6UH_UyiAeKer2-s9GafI
+    image_url: https://d30j33t1r58ioz.cloudfront.net/static/brand/square-512x512.png
   - name: Firebase
     web_url: https://firebase.google.com/
-    image_url: https://www.gstatic.com/devrel-devsite/prod/vcd1bbe5dda31d2b800805cc4c730b0229f847f2d108be33386b6e78644e79178/firebase/images/lockup.png
+    image_url: https://firebase.google.com/images/brand-guidelines/logo-logomark.png
   - name: Go
-    web_url: https://github.com/topics/go
-    image_url: 
+    web_url: https://golang.org/
+    image_url: https://www.vectorlogo.zone/logos/golang/golang-icon.svg
   - name: Kotlin(android)
-    web_url: https://github.com/topics/kotlin
-    image_url: 
+    web_url: https://kotlinlang.org/
+    image_url: https://upload.wikimedia.org/wikipedia/commons/b/b5/Kotlin-logo.png
   
