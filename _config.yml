@@ -47,12 +47,37 @@ projects:
   # youtube: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
-
-  - name: Web design
-
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Frontend
+  - name: React
+    web_url: https://reactjs.org/
+    image_url: data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K
+  - name: Vue
+    web_url: https://vuejs.org/
+    image_url: https://vuejs.org/images/logo.png
+  - name: Backend
+  - name: Spring Boot
+    web_url: https://spring.io/projects/spring-boot
+    image_url: https://spring.io/img/homepage/icon-spring-boot.svg
+  - name: Oracle
+    web_url: https://www.oracle.com/index.html
+    image_url: 
+  - name: DevOps
+  - name: Docker
+  - name: ...
+  - name: IN PROGRESS
+  - name: Flutter
+    web_url: https://flutter.dev/
+    image_url: https://flutter.dev/assets/flutter-lockup-c13da9c9303e26b8d5fc208d2a1fa20c1ef47eb021ecadf27046dea04c0cebf6.png
+  - name: Expo
+    web_url: https://expo.io/
+    image_url: https://lh3.googleusercontent.com/7l-bQADRV4PzxAz_9GH2aozV3jkHqdlUJbOsIf4Eu_bazCi6UH_UyiAeKer2-s9GafI
+  - name: Firebase
+    web_url: https://firebase.google.com/
+    image_url: https://www.gstatic.com/devrel-devsite/prod/vcd1bbe5dda31d2b800805cc4c730b0229f847f2d108be33386b6e78644e79178/firebase/images/lockup.png
+  - name: Go
+    web_url: https://github.com/topics/go
+    image_url: 
+  - name: Kotlin(android)
+    web_url: https://github.com/topics/kotlin
+    image_url: 
+  
